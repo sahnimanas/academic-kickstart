@@ -75,4 +75,11 @@ In Summer 2020, I interned at [Nvidia with the TensorRT team](https://developer.
 Prior to starting at Georgia Tech, I was an ML Software Engineer at Samsung India R&D, where I helped bring flagship vision applications to low-power devices through the [Samsung Neural SDK](https://developer.samsung.com/neural/overview.html). \
 I completed my Bachelor's degree in Math & Computing at Delhi Technological University.
 
-<span style="color:#c22706">I'm currently looking for full-time roles starting June 2021. Please email me if interested!</span>
+---
+<br/>
+
+#### News
+
+- Jan 2021: Our paper on faster Neural Architecture Search was accepted to ICLR 2021! Details soon.
+- Jan 2021: I will be serving as Head TA for [CS7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/) in Spring 2021
+- Sep 2020: I will be joining Nvidia as a Software Engineer in Summer 2021
