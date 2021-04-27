@@ -22,10 +22,10 @@ image:
 
 # Custom links (optional).
 links:
-- name: Paper
-  url: "https://openreview.net/pdf?id=IgIk8RRT-Z"
-  icon_pack: far
-  icon: file-pdf
+- name: ArXiv
+  url: "https://arxiv.org/abs/2104.12642"
+  icon_pack: ai
+  icon: arxiv
 
 - name: GitHub
   url: "https://github.com/gatech-sysml/compofa"
@@ -37,10 +37,10 @@ links:
   icon_pack: fas
   icon: image
 
-- name: Video
-  url: "https://youtube.com/"
-  icon_pack: fas
-  icon: film
+#- name: Video
+#  url: "https://youtube.com/"
+#  icon_pack: fas
+#  icon: film
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
