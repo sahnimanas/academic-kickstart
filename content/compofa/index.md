@@ -109,7 +109,7 @@ Despite these savings, CompOFA does not compromise on its original goal. It’s 
 
 CompOFA improves the speed, cost, and usability of jointly training models for many deployment targets. By highlighting insights on model design and system deployment, we try to address an important problem for real-world usability of DNNs.
 
-To know more, please check out our [paper](https://openreview.net/pdf?id=IgIk8RRT-Z) and [poster](https://iclr.cc/media/PosterPDFs/ICLR%202021/2c3ddf4bf13852db711dd1901fb517fa.png) at ICLR 2021! Our code and pretrained models are also available on our [Github repository](https://github.com/gatech-sysml/compofa).
+To know more, please check out our [paper](https://arxiv.org/abs/2104.12642) and [poster](https://iclr.cc/media/PosterPDFs/ICLR%202021/2c3ddf4bf13852db711dd1901fb517fa.png) at ICLR 2021! Our code and pretrained models are also available on our [Github repository](https://github.com/gatech-sysml/compofa).
 
 ## Citation
 
