@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sahnimanas@gatech.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sahnimanas@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/sahnimanas
@@ -68,7 +68,9 @@ email: ""
 # - Visitors
 ---
 
-I'm a 2nd year MS CS student at Georgia Tech. I'm advised by [Prof. Alexey Tumanov](https://www.cc.gatech.edu/~atumanov/) in the Systems for Artificial Intelligence Lab (SAIL), working on democratizing machine learning through better frameworks, tools, and algorithms.
+I'm a Software Engineer working on Deep Learning Libraries at NVIDIA.
+
+I completed my MS in CS at Georgia Tech, where I was advised by [Prof. Alexey Tumanov](https://www.cc.gatech.edu/~atumanov/) in the Systems for Artificial Intelligence Lab (SAIL), working on making machine learning applications, tools, and algorithms cheaper and accessible.
 
 In Summer 2020, I interned at [Nvidia with the TensorRT team](https://developer.nvidia.com/tensorrt), optimizing systems for deep-learning inference on GPUs.
 
@@ -80,6 +82,7 @@ I completed my Bachelor's degree in Math & Computing at Delhi Technological Univ
 
 #### News
 
-- Jan 2021: Our paper on faster Neural Architecture Search was accepted to ICLR 2021! Details soon.
+- Jul 2021: Joined NVIDIA's as a Software Engineer on the Deep Learning Libraries team
+- May 2021: Completed my MS in CS (Machine Learning) from Georgia Tech
+- Jan 2021: Our paper was accepted to ICLR 2021! [CompOFA: Compound Once-For-All Networks for Faster Multi-Platform Deployment](/compofa/)
 - Jan 2021: I will be serving as Head TA for [CS7643 Deep Learning](https://www.cc.gatech.edu/classes/AY2021/cs7643_spring/) in Spring 2021
-- Sep 2020: I will be joining Nvidia as a Software Engineer in Summer 2021
