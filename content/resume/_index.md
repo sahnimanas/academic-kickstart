@@ -5,7 +5,7 @@ active = true # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Resume"
-subtitle = "Last updated: August 2020"
+subtitle = "Last updated: May 2022"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
