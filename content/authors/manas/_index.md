@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: MS CS student
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Institute of Technology
+- name: NVIDIA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
